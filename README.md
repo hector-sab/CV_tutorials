@@ -1,2 +1,2 @@
-# CV_tutorials
+# Tutoriales CV
 Tutoriales de CV usando OpenCV
